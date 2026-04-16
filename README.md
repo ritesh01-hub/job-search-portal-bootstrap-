@@ -14,7 +14,7 @@ A responsive **Job Search Portal** web application built with **HTML**, **CSS**,
 ## 📸 Preview
 
 > _Add a screenshot of your project here after pushing to GitHub_
-> `![Job Search Portal Screenshot](./assets/Screenshot 2026-04-16 111110.png)`
+> ![Job Search Portal Screenshot](Screenshot 2026-04-16 111110.png)
 
 ---
 
