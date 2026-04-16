@@ -13,8 +13,8 @@ A responsive **Job Search Portal** web application built with **HTML**, **CSS**,
 
 ## 📸 Preview
 
-> _Add a screenshot of your project here after pushing to GitHub_
-> ![Job Search Portal Screenshot](Screenshot 2026-04-16 111110.png)
+
+![Job Search Portal Screenshot](https://github.com/ritesh01-hub/job-search-portal-bootstrap-/blob/ae73a73e09826c984cc67faa2a4a867f29b3c508/Screenshot%202026-04-16%20111110.png)
 
 ---
 
